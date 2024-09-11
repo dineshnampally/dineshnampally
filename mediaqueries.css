@@ -106,7 +106,7 @@
 /* For tablets and smaller screens */
 @media screen and (max-width: 1200px) {
   #profile {
-    height: 50vh; /* Adjusted height for tablets */
+    height: 70vh; /* Adjusted height for tablets */
     margin-bottom: 4rem; /* Reduced margin-bottom for tablets */
   }
   .section__pic-container {
@@ -118,7 +118,7 @@
 
 @media screen and (max-width: 600px) {
   #profile {
-    height: 50vh; /* Further reduced height for mobile screens */
+    height: 60vh; /* Further reduced height for mobile screens */
     margin-bottom: 2rem; /* Further reduced margin-bottom for mobile */
   }
   .section__pic-container {
