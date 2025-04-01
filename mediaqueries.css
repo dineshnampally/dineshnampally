@@ -106,24 +106,24 @@
 /* For tablets and smaller screens */
 @media screen and (max-width: 1200px) {
   #profile {
-    height: 70vh; /* Adjusted height for tablets */
-    margin-bottom: 4rem; /* Reduced margin-bottom for tablets */
+    height: 70vh; 
+    margin-bottom: 4rem; 
   }
   .section__pic-container {
-    width: 275px; /* Adjusted width for tablets */
-    height: 275px; /* Adjusted height for tablets */
-    margin: 0 auto 1.5rem; /* Reduced margin-bottom for tablets */
+    width: 275px;
+    height: 275px; 
+    margin: 0 auto 1.5rem; 
   }
 }
 
 @media screen and (max-width: 600px) {
   #profile {
-    height: 60vh; /* Further reduced height for mobile screens */
-    margin-bottom: 2rem; /* Further reduced margin-bottom for mobile */
+    height: 60vh; 
+    margin-bottom: 2rem; 
   }
   .section__pic-container {
-    width: 200px; /* Further adjusted width for mobile screens */
-    height: 200px; /* Further adjusted height for mobile screens */
-    margin: 0 auto 1rem; /* Further reduced margin-bottom for mobile */
+    width: 200px; 
+    height: 200px;
+    margin: 0 auto 1rem; 
   }
 }
